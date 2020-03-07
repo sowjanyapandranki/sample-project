@@ -1,0 +1,31 @@
+{
+	"details":{
+		"image":"Tulips.jpg",
+		"name":"sowji",
+		"email":"pandrankisowjanya@gmail.com",
+		"number":"6305138059",
+		"address":"visakhapatnam"
+	},
+	"career":{
+		"info":"To become a software engineer",
+	},
+	"education":{
+		"institute":"view",
+		"Degree":"BTech",
+		"percentage":"88",
+		"passoutyear":"2022"
+	},
+	 {
+     
+		"institute":"sri chaitanya",
+		"Degree":"inter",
+		"percentage":"98",
+		"passoutyear":"2018"
+	},
+	{
+        "institute":"gayatri",
+        "Degree":"ssc",
+        "percentage":"97",
+        "passoutyear":"2016"
+	}
+}
